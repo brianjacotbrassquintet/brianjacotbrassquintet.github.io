@@ -25,7 +25,7 @@
         p {
             max-width: 800px;
             margin: 0 auto 30px auto;
-          <!--  line-height: 1.5; -->
+         line-height: 1.5;
             font-size: 1.1em;
         }
         h2 {
@@ -52,7 +52,6 @@
 </head>
 
   <!-- Header -->
-    <header style="background-color: #006600; color: white">
         <h1 style="margin: 0; font-family: 'Arial', sans-serif; font-size: 2.5em;">
             Brian Jacot Brass Quintet
         </h1>
