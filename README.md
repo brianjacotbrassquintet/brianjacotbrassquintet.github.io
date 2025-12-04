@@ -52,6 +52,7 @@
 </head>
 
   <!-- Header -->
+  <header>
         <h1 style="margin: 0; font-family: 'Arial', sans-serif; font-size: 2.5em;">
             Brian Jacot Brass Quintet
         </h1>
