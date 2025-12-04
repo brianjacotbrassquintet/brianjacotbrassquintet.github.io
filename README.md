@@ -32,7 +32,7 @@
             margin-top: 40px;
             margin-bottom: 20px;
             font-size: 2em;
-            text-decoration: underline;
+
         }
         ul {
             list-style-type: none;
