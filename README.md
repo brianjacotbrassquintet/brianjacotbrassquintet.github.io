@@ -58,7 +58,7 @@
     </p>
 
     <!-- Brian Image -->
-    <img src="bj.jpeg" alt="Brian Jacot">
+    <img src="jacot.jpeg" alt="Brian Jacot">
     <div class="caption">Brian Jacot ‘77 MS ‘85</div>
 
     <!-- Performances -->
