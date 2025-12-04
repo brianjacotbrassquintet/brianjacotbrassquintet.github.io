@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -44,7 +44,7 @@
 <body>
 
     <!-- Top Image -->
-    <img src="/images/bjbq.jpeg" alt="Brass Quintet Photo">
+    <img src="bjbq.jpeg" alt="Brass Quintet Photo">
     <div class="caption">
         L-R: Michaele-Lynne Jacot Krenzer ‘09, Tony Brancato ‘88, Brett Gobe ‘03, 
         Matt “JFK” Keil ‘09, Brad Pettengill ‘05
@@ -58,7 +58,7 @@
     </p>
 
     <!-- Brian Image -->
-    <img src="images/bj.jpeg" alt="Brian Jacot">
+    <img src="bj.jpeg" alt="Brian Jacot">
     <div class="caption">Brian Jacot ‘77 MS ‘85</div>
 
     <!-- Performances -->
