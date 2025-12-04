@@ -28,6 +28,12 @@
             line-height: 1.5;
             font-size: 1.1em;
         }
+        h2 {
+            margin-top: 40px;
+            margin-bottom: 20px;
+            font-size: 2em;
+            text-decoration: underline;
+        }
         ul {
             list-style-type: none;
             padding: 0;
@@ -38,19 +44,25 @@
         ul li {
             margin-bottom: 10px;
         }
+        iframe {
+            margin-top: 40px;
+            border: none;
+        }
     </style>
 </head>
 
 <body>
 
     <!-- Top Image -->
-    <img src="bjbq.jpeg" alt="Brass Quintet Photo">
+    <img src="images/bjbq.jpeg" alt="Brass Quintet Photo">
     <div class="caption">
         L-R: Michaele-Lynne Jacot Krenzer ‘09, Tony Brancato ‘88, Brett Gobe ‘03, 
         Matt “JFK” Keil ‘09, Brad Pettengill ‘05
     </div>
 
-    <!-- Paragraph -->
+    <!-- About Us Section -->
+    <h2>About Us</h2>
+
     <p>
         The Brian Jacot Brass Quintet is made up of five Clarkson Pep Band alumni who get together annually 
         to perform Christmas tunes in the Rochester area. We formed in 2021 to support Brian Jacot ‘77 MS ‘85 
@@ -58,10 +70,12 @@
     </p>
 
     <!-- Brian Image -->
-    <img src="jacot.jpeg" alt="Brian Jacot">
+    <img src="images/bj.jpeg" alt="Brian Jacot">
     <div class="caption">Brian Jacot ‘77 MS ‘85</div>
 
-    <!-- Performances -->
+    <!-- Performances Section -->
+    <h2>2025 Performances</h2>
+
     <p>We will be performing twice in the Rochester area this season:</p>
 
     <ul>
@@ -70,6 +84,15 @@
     </ul>
 
     <p>Both events are free and open to the public.</p>
+
+    <!-- YouTube Video -->
+    <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/TonBEkb6TT0"
+        title="YouTube video player"
+        allowfullscreen>
+    </iframe>
+
+    <div class="caption" style="margin-top: 10px;">2023 Performance</div>
 
 </body>
 </html>
