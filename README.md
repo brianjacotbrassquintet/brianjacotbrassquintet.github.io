@@ -44,9 +44,25 @@
         ul li {
             margin-bottom: 10px;
         }
-        iframe {
+    
+
+        /* Responsive YouTube video */
+        .video-container {
+            position: relative;
+            width: 100%;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
             margin-top: 40px;
-            border: none;
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
         }
     </style>
 </head>
@@ -92,12 +108,13 @@
 
     <p>Both events are free and open to the public.</p>
 
-    <!-- YouTube Video -->
-    <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/TonBEkb6TT0"
-        title="YouTube video player"
-        allowfullscreen>
-    </iframe>
+    <!-- Responsive YouTube Video -->
+    <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/TonBEkb6TT0" 
+                title="YouTube video player" 
+                allowfullscreen>
+        </iframe>
+    </div>
 
     <div class="caption" style="margin-top: 10px;">2023 Performance</div>
 
