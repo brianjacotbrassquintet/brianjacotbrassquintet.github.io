@@ -20,7 +20,7 @@
         }
         .caption {
             font-style: italic;
-            margin-bottom: 30px;
+         <!---   margin-bottom: 30px;   --->
         }
         p {
             max-width: 800px;
