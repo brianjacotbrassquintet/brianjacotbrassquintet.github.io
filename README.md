@@ -15,12 +15,12 @@
         img {
             max-width: 80%;
             height: auto;
-            margin: 20px 0;
+            margin: 0px 0;
             border-radius: 6px;
         }
         .caption {
             font-style: italic;
-         <!---   margin-bottom: 30px;   --->
+       margin-bottom: 30px;
         }
         p {
             max-width: 800px;
@@ -89,9 +89,10 @@
     <p>
 The Brian Jacot Brass Quintet is made up of five Clarkson Pep Band alumni who gather annually to share Christmas music throughout the Rochester area. We formed in 2021 to support Brian Jacot ’77 MS ’85 during his courageous battle with pancreatic cancer and to help raise funds for cancer research.
 <br>
+<br>
 After Brian’s passing, he generously endowed a scholarship that is presented each year to a Clarkson University student involved in the Pep Band. In his honor, the Brian Jacot Brass Quintet continues to perform and raise money annually to support this scholarship, keeping Brian’s memory alive in the heart of the Pep Band community he cherished.
     </p>
-
+<br>
 <h2>Support & Donations</h2>
 <p>
     In memory of Brian Jacot, contributions to the Brian Jacot Scholarship or pancreatic cancer research are greatly appreciated.
