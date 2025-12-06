@@ -78,13 +78,13 @@
 <body>
 
     <!-- Top Image -->
-
+<p>
     <img src="bjbq.jpeg" alt="Brass Quintet Photo">
     <div class="caption">
         L-R: Michaele-Lynne Jacot Krenzer ‘09, Tony Brancato ‘88, Brett Gobe ‘03, 
         Matt “JFK” Keil ‘09, Brad Pettengill ‘05
     </div>
-
+</p>
     <!-- About Us Section -->
     <h2>About Us</h2>
 
