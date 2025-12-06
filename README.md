@@ -15,7 +15,7 @@
         img {
             max-width: 80%;
             height: auto;
-           <!--- margin: 0px 0;  -->
+           margin: 0px 0; 
                 margin-top: 30px; /* only adds space above the image */
             border-radius: 6px;
         }
